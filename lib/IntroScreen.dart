@@ -73,7 +73,7 @@ onSkip: (){
  showBackButton: true,
   done:  Text("Done",style: AppStyles.bodyStyle,),
   onDone: () {
-    // On button pressed go the home screen
+    // On button pressed go the home screennn
     Navigator.pushNamed(context, HomeScreen.routeName);
   },
   dotsDecorator: DotsDecorator(
